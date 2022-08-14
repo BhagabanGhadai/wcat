@@ -1,0 +1,23 @@
+{
+  "name": "wcat",
+  "version": "1.0.0",
+  "description": "It is used to display or make a copy content of one or more files in the terminal",
+  "main": "wcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhagabanGhadai/wcat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{ 
+    "wcat":"wcat.js"
+  },
+  "bugs": {
+    "url": "https://github.com/BhagabanGhadai/wcat/issues"
+  },
+  "homepage": "https://github.com/BhagabanGhadai/wcat#readme"
+}
